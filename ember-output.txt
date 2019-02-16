@@ -1,0 +1,4 @@
+installing helper
+  create app/helpers/rental-property-type.js
+installing helper-test
+  create tests/integration/helpers/rental-property-type-test.js
